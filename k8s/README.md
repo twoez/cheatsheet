@@ -18,9 +18,13 @@
 ```kubectl delete deployment [name]```  
 
 ### Get status of different components
-```kubectl get [nodes/deployment/pod/services/replicaset]```
+```kubectl get [nodes/deployment/replicaset/pod/services]```
 
-### Debugging pods
+### Debugging
+* ```kubectl get event```
+* ```kubectl describe [nodes/deployment/replicaset/pod/services] [name]```
+
+### Pods
 * Log to console  
 ```kubectl logs [pod name]```
 
