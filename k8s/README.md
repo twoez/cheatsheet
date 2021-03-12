@@ -5,6 +5,7 @@
 ### Using configuration file
 * Apply config  
 ```kubectl apply -f [file name]```
+
 * Delete config  
 ```kubectl delete -f [file name]```
 
@@ -24,4 +25,4 @@
 ```kubectl exec -it [pod name] -- bin/bash```
 
 * Get info about pod
-```kubectl describe pod [pod name]
+```kubectl describe pod [pod name]```
