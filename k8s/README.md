@@ -1,6 +1,6 @@
 # Cheatsheet Kubernetes
 
-## Kubectl
+## KubeCTL
 
 ### Using configuration file
 * Apply config  
