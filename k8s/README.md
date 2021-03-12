@@ -1,8 +1,7 @@
 # Cheatsheet Kubernetes
+[Back to cheatsheet index](../README.md)
 
-## KubeCTL
-
-[Back to cheatsheet index](../README.md)  
+## KubeCTL  
 [Layers of abstraction](layers-of-abstraction.md)
 
 ### Using configuration file
