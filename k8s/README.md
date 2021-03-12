@@ -2,8 +2,11 @@
 
 ## Kubectl
 
+### Using configuration file
 * Apply config  
-```kubectl apply -f etc/k8s/deployment.yaml```
+```kubectl apply -f [file name]```
+* Delete config  
+```kubectl delete -f [file name]```
 
 ### Crud commands
 ```kubectl create deployment [name]```  
@@ -19,3 +22,6 @@
 
 * Get interactive terminal (-it)  
 ```kubectl exec -it [pod name] -- bin/bash```
+
+* Get info about pod
+```kubectl describe pod [pod name]
