@@ -2,6 +2,9 @@
 
 ## KubeCTL
 
+[Back to cheatsheet index](../README.md)  
+[Layers of abstraction](layers-of-abstraction.md)
+
 ### Using configuration file
 * Apply config  
 ```kubectl apply -f [file name]```
