@@ -27,6 +27,9 @@
 * Get info about pod
 ```kubectl describe pod [pod name]```
 
+* ```kubectl cluster-info dump```
+
 ## Sources
 Cheatsheet provided by Kubernetes: https://kubernetes.io/docs/reference/kubectl/cheatsheet  
 Troubleshooting deployments: https://learnk8s.io/troubleshooting-deployments  
+Troubleshooting flow: https://learnk8s.io/a/a-visual-guide-on-troubleshooting-kubernetes-deployments/troubleshooting-kubernetes.v2.pdf
