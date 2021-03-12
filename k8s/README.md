@@ -1,7 +1,6 @@
 # Cheatsheet Kubernetes
 
 ## KubeCTL
-https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 ### Using configuration file
 * Apply config  
@@ -27,3 +26,7 @@ https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 * Get info about pod
 ```kubectl describe pod [pod name]```
+
+## Sources
+Cheatsheet provided by Kubernetes: https://kubernetes.io/docs/reference/kubectl/cheatsheet  
+Troubleshooting deployments: https://learnk8s.io/troubleshooting-deployments  
